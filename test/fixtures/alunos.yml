@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  aniversario: 2016-05-12
+  ultimo_pagamento: 2016-05-12
+  atraso_pagamento: 9.99
+  senha: MyString
+  telefone: MyString
+  email: MyString
+
+two:
+  nome: MyString
+  aniversario: 2016-05-12
+  ultimo_pagamento: 2016-05-12
+  atraso_pagamento: 9.99
+  senha: MyString
+  telefone: MyString
+  email: MyString
